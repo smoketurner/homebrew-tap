@@ -1,8 +1,7 @@
 class Quack < Formula
   desc "Knowledge engine: documents, tables, and a knowledge graph in one workspace"
   homepage "https://github.com/smoketurner/quack"
-  version "2026.9.2"
-  license "Apache-2.0 OR MIT"
+  license any_of: ["Apache-2.0", "MIT"]
 
   on_macos do
     on_arm do
