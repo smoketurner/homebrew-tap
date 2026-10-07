@@ -5,8 +5,8 @@ class Quack < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/smoketurner/quack/releases/download/v2026.10.3/quack-2026.10.3-aarch64-apple-darwin.tar.gz"
-      sha256 "6e748c57f9fe2aaa0d5508563f69d05b4f662179f3700bcc14244da0b9df2fcb"
+      url "https://github.com/smoketurner/quack/releases/download/v2026.10.4/quack-2026.10.4-aarch64-apple-darwin.tar.gz"
+      sha256 "1491d72c3230654a75ea5825c825939834c68bd3b1b7f5a70a71012b035705ab"
     end
   end
 
